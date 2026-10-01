@@ -1,0 +1,44 @@
+{
+  "PDisney": [
+    { "nome": "Mickey Mouse", "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mickey_Mouse.png" },
+    { "nome": "Minnie Mouse", "foto": "https://upload.wikimedia.org/wikipedia/en/b/b2/Minnie_Mouse.png" },
+    { "nome": "Pato Donald", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a5/Donald_Duck.png" },
+    { "nome": "Pateta", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a6/Goofy_Character.png" },
+    { "nome": "Pluto", "foto": "https://upload.wikimedia.org/wikipedia/en/7/7b/Pluto_dog.png" },
+    { "nome": "Tio Patinhas", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f3/Scrooge_McDuck.png" },
+    { "nome": "Margarida", "foto": "https://upload.wikimedia.org/wikipedia/en/f/f6/Daisy_Duck.png" },
+    { "nome": "Zé Carioca", "foto": "https://upload.wikimedia.org/wikipedia/en/6/6f/Jose_Carioca.png" },
+    { "nome": "Mago Merlin", "foto": "https://upload.wikimedia.org/wikipedia/en/3/30/Merlin_Disney.png" },
+    { "nome": "Gastão", "foto": "https://upload.wikimedia.org/wikipedia/en/a/a7/Gladstone_Gander.png" }
+  ],
+  "PMarvel": [
+    { "nome": "Homem de Ferro", "foto": "https://upload.wikimedia.org/wikipedia/en/e/e7/Iron_Man_bleeding_edge.png" },
+    { "nome": "Capitão América", "foto": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_Shield.png" },
+    { "nome": "Thor", "foto": "https://upload.wikimedia.org/wikipedia/en/7/77/Thor_Marvel_Comics.png" },
+    { "nome": "Homem-Aranha", "foto": "https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.png" },
+    { "nome": "Hulk", "foto": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_%28comics_character%29.png" },
+    { "nome": "Viúva Negra", "foto": "https://upload.wikimedia.org/wikipedia/en/1/10/Black_Widow_Marvel_Comics.png" },
+    { "nome": "Gavião Arqueiro", "foto": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clint_Barton%29.png" },
+{ "nome": "Pantera Negra", "foto": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_character_image.png" },
+    { "nome": "Capitã Marvel", "foto": "https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_%28Carol_Danvers%29.png" }
+  ],
+  "PDC": [
+    { "nome": "Superman", "foto": "https://upload.wikimedia.org/wikipedia/en/3/35/Superman_S_shield.svg" },
+    { "nome": "Batman", "foto": "https://upload.wikimedia.org/wikipedia/en/1/17/Batman-1939.png" },
+    { "nome": "Mulher-Maravilha", "foto": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.png" },
+    { "nome": "Flash", "foto": "https://upload.wikimedia.org/wikipedia/en/e/ed/Flash_comics.png" },
+    { "nome": "Lanterna Verde", "foto": "https://upload.wikimedia.org/wikipedia/en/8/82/Green_Lantern.png" },
+    { "nome": "Aquaman", "foto": "https://upload.wikimedia.org/wikipedia/en/0/0a/Aquaman_issue_1%2C_2011.png" },
+    { "nome": "Ciborgue", "foto": "https://upload.wikimedia.org/wikipedia/en/1/18/Cyborg_%28comic_book_character%29.png" },
+    { "nome": "Arqueiro Verde", "foto": "https://upload.wikimedia.org/wikipedia/en/3/3d/Green_Arrow_DC_Comics.png" } 
+  ],
+  "PMauricio": [
+    { "nome": "Mônica", "foto": "https://conteudo.imguol.com.br/c/entretenimento/3d/2023/03/22/monica-comemora-60-anos-em-2023-1679519560853_v2_900x506.png" },
+    { "nome": "Cebolinha", "foto": "https://static.wikia.nocookie.net/monica/images/9/91/Cebolinha_Junior.png/revision/latest?cb=20260420233226&path-prefix=pt-br" },
+    { "nome": "Cascão", "foto": "https://static.wikia.nocookie.net/monica/images/7/78/Casc%C3%A3o_Ara%C3%BAjo.png/revision/latest?cb=20260420233311&path-prefix=pt-br" },
+    { "nome": "Magali", "foto": "https://static.wikia.nocookie.net/monica/images/4/4f/Magali_Lima.png/revision/latest?cb=20260420233335&path-prefix=pt-br" },
+    { "nome": "Chico Bento", "foto": "https://static.wikia.nocookie.net/monica/images/6/6f/Chico_bento.png/revision/latest?cb=20140930163812&path-prefix=pt-br" },
+    { "nome": "Franjinha", "foto": "https://static.wikia.nocookie.net/monica/images/b/ba/Franjinha.png/revision/latest?cb=20260805141840&path-prefix=pt-br" },
+    { "nome": "Bidú", "foto": "https://static.wikia.nocookie.net/monica/images/5/59/Bidu_transparente.png/revision/latest?cb=20231022195750&path-prefix=pt-br" }
+  ]
+}
