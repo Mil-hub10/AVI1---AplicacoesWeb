@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Mickey Mouse",
+    "numero": "91",
+    "cargo": "Presidente",
+    "foto": "https://th.bing.com/th/id/R.a7046eebd043f24f3564feba614db1ba?rik=Yggj5RWh7%2bv12g&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140917132903%2fthe-disney-roleplay%2fimages%2fd%2fd4%2fMickey-mouse-659.jpg&ehk=jmmP9lSAhDF%2bqgQ6bK3ITvtAQVpkpRM2HsSiovyzMiI%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "nome": "Minnie Mouse",
+    "numero": "91",
+    "cargo": "Governador(a)",
+    "foto": "http://tse1.mm.bing.net/th/id/OIP._q3OD2E39TLF4iYEpOzS0gHaH6?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Pato Donald",
+    "numero": "911",
+    "cargo": "Senador(a)",
+    "foto": "https://th.bing.com/th/id/R.efd977ffdfe4ae4071da717ad566dc33?rik=gzChflZzQNplLw&pid=ImgRaw&r=0"
+  },
+  {
+    "nome": "Pateta",
+    "numero": "9112",
+    "cargo": "Deputado(a) Federal",
+    "foto": "https://tse1.mm.bing.net/th/id/OIP.RxTJ6IV_gG48d_YF34HB4AHaTQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Pluto",
+    "numero": "91123",
+    "cargo": "Deputado(a) Estadual",
+    "foto": "https://tse2.mm.bing.net/th/id/OIP.3Fjm_Bj17LzYNUeKjJ4UYAHaIa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]

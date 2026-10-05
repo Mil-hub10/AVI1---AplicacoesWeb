@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Mônica",
+    "numero": "94",
+    "cargo": "Presidente",
+    "foto": "https://i.pinimg.com/originals/8b/7d/a5/8b7da58601dc75e668cdfdb5d81139b4.png"
+  },
+  {
+    "nome": "Cebolinha",
+    "numero": "94",
+    "cargo": "Governador(a)",
+    "foto": "https://tse1.mm.bing.net/th/id/OIP.MS47iYvH3ZdwG5FnTyKptgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Cascão",
+    "numero": "941",
+    "cargo": "Senador(a)",
+    "foto": "https://tse3.mm.bing.net/th/id/OIP.4hGa5D8ZuRGt2QxLYUpnuwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Magali",
+    "numero": "9423",
+    "cargo": "Deputado(a) Federal",
+    "foto": "https://i.pinimg.com/originals/2d/e6/ec/2de6ecb334407306a50b2c86255ad663.jpg"
+  },
+  {
+    "nome": "Chico Bento",
+    "numero": "94456",
+    "cargo": "Deputado(a) Estadual",
+    "foto": "https://tse2.mm.bing.net/th/id/OIP.DL2xqr388ljO7dsnlgmeXQHaJ9?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]

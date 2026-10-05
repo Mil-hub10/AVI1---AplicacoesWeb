@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Homem de Ferro",
+    "numero": "92",
+    "cargo": "Presidente",
+    "foto": "https://i.pinimg.com/originals/50/b7/2b/50b72b84aaf8d91d03c16cec18f6a8ce.png"
+  },
+  {
+    "nome": "Capitão América",
+    "numero": "92",
+    "cargo": "Governador(a)",
+    "foto": "https://upload.wikimedia.org/wikipedia/pt/b/bc/Steven_Rogers_(Earth-616).jpg"
+  },
+  {
+    "nome": "Thor",
+    "numero": "921",
+    "cargo": "Senador(a)",
+    "foto": "https://tse3.mm.bing.net/th/id/OIP.zWrCkIRj_8J1tg99PjkiGAHaGs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Homem-Aranha",
+    "numero": "9223",
+    "cargo": "Deputado(a) Federal",
+    "foto": "https://tse2.mm.bing.net/th/id/OIP.kO6XBDaK3Muy9ltG72i-SQHaLc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "nome": "Hulk",
+    "numero": "92456",
+    "cargo": "Deputado(a) Estadual",
+    "foto": "https://tse3.mm.bing.net/th/id/OIP.F4YGqp1HDSVao18mh3himAHaLP?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
